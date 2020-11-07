@@ -1,0 +1,15 @@
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\obj\Debug\CapaDeDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\obj\Debug\CapaDeDatos.Resources.resources
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\obj\Debug\CapaDeDatos.vbproj.GenerateResource.cache
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\obj\Debug\CapaDeDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\bin\Debug\CapaDeDatos.dll.config
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\bin\Debug\CapaDeDatos.xml
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\bin\Debug\CapaDeNegocio.dll
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\bin\Debug\CapaDeNegocio.xml
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\obj\Debug\CapaDeDatos.vbproj.CopyComplete
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\obj\Debug\CapaDeDatos.xml
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeDatos\obj\Debug\CapaDeDatos.pdb

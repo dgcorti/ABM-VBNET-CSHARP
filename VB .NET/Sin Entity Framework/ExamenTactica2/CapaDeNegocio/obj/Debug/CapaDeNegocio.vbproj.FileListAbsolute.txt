@@ -1,0 +1,10 @@
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeNegocio\bin\Debug\CapaDeNegocio.xml
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeNegocio\obj\Debug\CapaDeNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeNegocio\obj\Debug\CapaDeNegocio.Resources.resources
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeNegocio\obj\Debug\CapaDeNegocio.vbproj.GenerateResource.cache
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeNegocio\obj\Debug\CapaDeNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeNegocio\obj\Debug\CapaDeNegocio.xml
+C:\Users\Corti\source\repos\ExamenTactica2\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb
